@@ -1,2 +1,2 @@
 My first readme
-This is exciting
+This is exciting!
